@@ -31,3 +31,13 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Atmel Studio Files
+*.d
+*.eep
+*.lss
+*.map
+*.componentinfo.xml
+*.srec
+Makefile
+*.mk
